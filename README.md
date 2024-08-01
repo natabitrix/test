@@ -1,4 +1,6 @@
 редми из новой ветки
+редми из новой ветки 2
+
 Create a new branch:
     git checkout -b new-branch
     git add .
