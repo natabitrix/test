@@ -1,4 +1,4 @@
-redmi измененная в ветке feature
+redmi измененная в ветке feature3
 
 Create a new branch:
     git checkout -b new-branch
